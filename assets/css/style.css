@@ -23,6 +23,14 @@
     background: orange;
   }
 
+  ul {
+      margin-inline-start: 75%;
+  }
+
+  .bg-light {
+    background-color: #4aaaa5 !important;
+  }
+
   footer {
     clear: both;
     background-color: #666666;
@@ -54,13 +62,13 @@ hr {
         padding-top: 15px;
         width: 100%;
         min-width: 960px;
-        height: 540px;
+        height: 500px;
         background-image: url('../images/circuit.png');
 }
 
 #aboutMePage {
     width: 600px;
-    height: 500px;
+    height: 400px;
     background-color: #ffffff;
     border-color: #dddddd;
 }
@@ -108,7 +116,7 @@ hr {
 
 #contactMsg {
     width: 555px;
-    height: 190px;  
+    height: 140px;  
 }
 
 
